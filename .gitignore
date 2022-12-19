@@ -1,3 +1,4 @@
-/data
-/export
 /.ipynb_checkpoints
+bike_data/
+venv/
+*.pkl
